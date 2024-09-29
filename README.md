@@ -1,2 +1,2 @@
 # distributionally_robust_optimization
-Distributionally Robust Optimization Implementation
+Implement demos in 《Data-driven distributionally robust optimization using the Wasserstein metric: performance guarantees and tractable reformulations》
